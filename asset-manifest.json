@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Banking-App-for-Handicapped-People/static/css/main.a846cdf0.css",
+    "main.js": "/Banking-App-for-Handicapped-People/static/js/main.eb4872c5.js",
+    "static/js/787.1ccb06c2.chunk.js": "/Banking-App-for-Handicapped-People/static/js/787.1ccb06c2.chunk.js",
+    "index.html": "/Banking-App-for-Handicapped-People/index.html",
+    "main.a846cdf0.css.map": "/Banking-App-for-Handicapped-People/static/css/main.a846cdf0.css.map",
+    "main.eb4872c5.js.map": "/Banking-App-for-Handicapped-People/static/js/main.eb4872c5.js.map",
+    "787.1ccb06c2.chunk.js.map": "/Banking-App-for-Handicapped-People/static/js/787.1ccb06c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a846cdf0.css",
+    "static/js/main.eb4872c5.js"
+  ]
+}
